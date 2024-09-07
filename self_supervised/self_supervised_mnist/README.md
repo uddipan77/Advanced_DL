@@ -31,7 +31,7 @@ This project demonstrates a self-supervised learning approach on the MNIST datas
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/uddipan77/your-repo-name.git
+    git clone https://github.com/uddipan77/Advanced_DL.git
     cd your-repo-name
     ```
 
