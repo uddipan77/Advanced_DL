@@ -4,30 +4,6 @@ This project demonstrates a self-supervised learning approach on the MNIST datas
 
 ## Project Structure
 
-```plaintext
-self_supervised_mnist/
-│
-├── main.py
-│
-├── data/
-│   ├── __init__.py
-│   └── dataset.py
-│
-├── model/
-│   ├── __init__.py
-│   └── model.py
-│
-├── train/
-│   ├── __init__.py
-│   └── train.py
-│
-└── finetune/
-    ├── __init__.py
-    └── finetune.py
-
-
-
-
 
 ### Overview of Files
 
@@ -68,6 +44,7 @@ self_supervised_mnist/
 3. **Download the MNIST Dataset:**
 
     The MNIST dataset will be automatically downloaded to `C:/Users/uddip/Downloads/MNIST` when you run the training script.
+    You need to change the path.
 
 ### Running the Project
 
